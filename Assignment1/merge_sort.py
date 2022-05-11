@@ -1,4 +1,5 @@
 import time
+import psutil
 
 def merge_sort(data_storage):
     if len(data_storage)>1:
@@ -38,29 +39,26 @@ def main():
     for data in lines:
         count = count + 1
         data_storage.append(data)
-    print(" BeFORE Total data:" , len(data_storage))
+
     merge_sort(data_storage)
-    print(" After Total data:" , len(data_storage))
-    
     end_time = time.time() - start_time
-
-    print("after sorting:",data_storage[0],data_storage[1],data_storage[2])
-    print(end_time)
-
+    
+    space = psutil.Process().memory_info().rss / (1024 * 1024)
     with open('merge_sort_output_python.txt' , 'w') as f:
         f.write("**********************Stats*********************")
-        data_to_write  = 'Time :' + str(end_time)+'  second'
+        data_to_write  = 'Time :' + str(end_time)+'Second'
+        space_to_write = "Memory Consumption: " + str(space) + 'MB'
         f.write("\n")
         f.write(data_to_write)
         f.write("\n")
+        f.write(space_to_write)
+        f.write("\n")
         f.write("**********************Output*********************")
         f.write("\n")
-        d = 1
-        ada = data_storage[998675]
-        print(ada)
+
         for data in data_storage:
             f.write(data)
-     
-        print("counter value",d)
+        
+    
 if __name__ == '__main__':
     main()
