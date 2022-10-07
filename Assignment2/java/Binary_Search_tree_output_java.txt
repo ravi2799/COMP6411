@@ -1,0 +1,69 @@
+*******Stats********
+Inserted 998676 elemenets into BST.
+Insertion Time: 485 ms
+Memory consumed: 33 MB
+
+--------------------------------------------
+Searching successfull 733002260 element into binary search tree in 21 searches and time taken is: 300Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 254875457 element into binary search tree in 27 searches and time taken is: 200Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 178558520 element into binary search tree in 26 searches and time taken is: 100Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 353221028 element into binary search tree in 27 searches and time taken is: 200Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 670746645 element into binary search tree in 31 searches and time taken is: 300Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10721678 element into binary search tree in 19 searches and time taken is: 200 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10674480 element into binary search tree in 19 searches and time taken is: 200 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10332995 element into binary search tree in 19 searches and time taken is: 200 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10470047 element into binary search tree in 19 searches and time taken is: 200 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10250395 element into binary search tree in 19 searches and time taken is: 100 Nano second
+--------------------------------------------**********************Stats*********************
+Inserted 998676 elemenets into BST.
+Insertion Time: 706 ms
+Memory consumed: 27 MB
+
+--------------------------------------------
+Searching successfull 733002260 element into binary search tree in 21 searches and time taken is: 300Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 254875457 element into binary search tree in 27 searches and time taken is: 400Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 178558520 element into binary search tree in 26 searches and time taken is: 300Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 353221028 element into binary search tree in 27 searches and time taken is: 300Nano second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 670746645 element into binary search tree in 31 searches and time taken is: 200Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10721678 element into binary search tree in 19 searches and time taken is: 400 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10674480 element into binary search tree in 19 searches and time taken is: 500 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10332995 element into binary search tree in 19 searches and time taken is: 400 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10470047 element into binary search tree in 19 searches and time taken is: 600 Nano second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10250395 element into binary search tree in 19 searches and time taken is: 200 Nano second
+--------------------------------------------

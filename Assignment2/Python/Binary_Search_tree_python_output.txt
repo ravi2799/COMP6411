@@ -1,0 +1,14 @@
+Inserted 998676 elemenets into BST.
+Insertion Time :12.96875Second
+Memory Consumed: 278.1640625MB
+---------------------------------------------------------------------------------
+Searching successfull for  733002260 element into binary search tree in 21 access and require 1000900   Nano Seconds
+Searching successfull for  254875457 element into binary search tree in 27 access and require 0   Nano Seconds
+Searching successfull for  178558520 element into binary search tree in 26 access and require 0   Nano Seconds
+Searching successfull for  353221028 element into binary search tree in 27 access and require 0   Nano Seconds
+Searching successfull for  670746645 element into binary search tree in 31 access and require 0   Nano Seconds
+Searching unsuccessfull for 10721678 element into binary search tree in 18 access and require  998800   Nano Seconds
+Searching unsuccessfull for 10674480 element into binary search tree in 18 access and require  0   Nano Seconds
+Searching unsuccessfull for 10332995 element into binary search tree in 18 access and require  0   Nano Seconds
+Searching unsuccessfull for 10470047 element into binary search tree in 18 access and require  0   Nano Seconds
+Searching unsuccessfull for 10250395 element into binary search tree in 18 access and require  0   Nano Seconds

@@ -1,0 +1,35 @@
+**********************Stats*********************
+Inserted 998676 elemenets into Hashtable.
+Insertion Time: 52 ms
+Memory consumed: 27 MB
+
+--------------------------------------------
+Searching successfull 733002260 element into hash table in 76 searches and time taken is400  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 254875457 element into hash table in 52 searches and time taken is200  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 178558520 element into hash table in 40 searches and time taken is300  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 353221028 element into hash table in 29 searches and time taken is300  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching successfull 670746645 element into hash table in 69 searches and time taken is300  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10721678 element into hash table in 119 searches and time taken is300  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10674480 element into hash table in 106 searches and time taken is300  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10332995 element into hash table in 108 searches and time taken is100  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10470047 element into hash table in 108 searches and time taken is600  Nano Second
+--------------------------------------------
+--------------------------------------------
+Searching unsuccessfull 10250395 element into hash table in 104 searches and time taken is300  Nano Second
+--------------------------------------------
