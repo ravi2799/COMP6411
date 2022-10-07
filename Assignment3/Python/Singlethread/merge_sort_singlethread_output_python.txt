@@ -1,0 +1,9 @@
+----------------- Insertion Time ----------------------------
+Even Prime: 0 Seconds
+Even NonPrime: 0.8605630397796631 Seconds
+Odd Prime: 107.52930879592896 Seconds
+Odd NonPrime: 22.56152892112732 Seconds
+---------------------------------------------
+Memory consumed: 338.8828125MB
+Time consumed: 99.9885413646698Second
+---------------------------------------------
